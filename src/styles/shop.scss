@@ -1,0 +1,14 @@
+.content {
+    display: flex;
+    .side-bar {
+      flex: 0 0 18%;
+      display: flex;
+      justify-content: center;
+      .side-bar-content{
+        margin-top: 3rem;
+      }
+    }
+    .shopitems {
+      flex: 1;
+    }
+  }
