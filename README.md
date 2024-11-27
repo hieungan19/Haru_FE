@@ -1,1 +1,1 @@
-Haru Comestic
+Haru Comestic Frontend
